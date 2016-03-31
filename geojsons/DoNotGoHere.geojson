@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Name": "NoIdea",
+        "Address": "No idea Rd",
+        "Review": "Amazing place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9604368209839,
+          -37.804104599834616
+        ]
+      }
+    }
+  ]
+}
